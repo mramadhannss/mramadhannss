@@ -42,15 +42,15 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@mramadhannss)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@mramadhannss)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@mramadhannss#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@mramadhannss#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muchammad-ramadhan-sudhana-bb733b310)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muchammad-ramadhan-sudhana-bb733b310)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muchammad-ramadhan-sudhana-bb733b310#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muchammad-ramadhan-sudhana-bb733b310#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mramadhannss/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mramadhannss/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mramadhannss#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/mramadhannss#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/mramadhannss
+[webdev]: https://github.com/mramadhannss/mramadhannss
