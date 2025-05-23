@@ -26,9 +26,12 @@
    - Assisting in the process of packing goods to support smooth delivery to customers
 ---
 
-### Tools:
+### Alat dan Sistem Operasi:
 
 [<img align="left" alt="Cisco" width="30px" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Winbox" width="30px" src="https://www.flazznetworks.com/wp-content/uploads/2016/09/winbox-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Mikrotik" width="30px" src="https://brandlogos.net/wp-content/uploads/2022/04/mikrotik-logo-brandlogos.net_-512x512.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="VirtualBox" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Virtualbox_logo.svg/250px-Virtualbox_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Linux" width="30px" src="https://e7.pngegg.com/pngimages/1013/132/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-thumbnail.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Debian" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/debian-2-logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Ubuntu" width="50px" src="https://w7.pngwing.com/pngs/793/740/png-transparent-ubuntu-computer-icons-long-term-support-canonical-gifts-panels-shading-background-miscellaneous-orange-logo.png" style="padding-right:10px;" />][webdev]
