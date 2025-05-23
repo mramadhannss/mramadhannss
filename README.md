@@ -26,7 +26,7 @@
    - Assisting in the process of packing goods to support smooth delivery to customers
 ---
 
-### Alat dan Sistem Operasi:
+### Tools and Operating Systems:
 
 [<img align="left" alt="Cisco" width="30px" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Winbox" width="30px" src="https://www.flazznetworks.com/wp-content/uploads/2016/09/winbox-logo.png" style="padding-right:10px;" />][webdev]
